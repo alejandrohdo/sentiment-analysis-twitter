@@ -1,0 +1,39 @@
+media/*
+#gitIgnore de Setting.py
+public/*
+__pycache__/*
+config/*.json
+bin
+include
+lib
+public/*
+# File types #
+##############
+*.pyo
+*.pyc
+*.swo
+*.swp
+*.swn
+*.log
+.python-version
+
+# PyCharm project settings
+.idea
+.vscode
+# Directories #
+###############
+logs/
+log/
+
+# OS generated files #
+######################
+.DS_Store
+*.db
+Icon
+Thumbs.db
+*~HASLLAs
+,9   					
+logfile
+
+# Sass compilador
+.sass-cache

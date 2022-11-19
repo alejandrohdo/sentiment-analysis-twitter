@@ -1,0 +1,5 @@
+nltk # Sentiments
+spanish_sentiment_analysis # ES
+scikit-learn==0.22.2.post1 # ES
+pip install spacy==2.3.7 # detect language text
+pip install spacy-langdetect==0.1.2 #detect language text general
