@@ -1,7 +1,7 @@
 # Sentiment analysis of conversations on twitter in Python.
 
 ### COMPONNETS:
-- elt data tweets
+- ETL data tweets
 - Analizer sentiments
 - data set
 - Data viz
