@@ -1,5 +1,5 @@
 # Sentiment analysis of conversations on twitter in Python.
-
+![Diagram process](Diagram.png)
 ### COMPONNETS:
 - ETL data tweets
 - Analizer sentiments
