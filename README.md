@@ -11,9 +11,14 @@ install requirements general
 ## Install NLTK terminal  
 install dependencies nltk
 >> python 
->>> import nltk
->>> nltk.download('vader_lexicon')
+>> import nltk
+>> nltk.download('vader_lexicon')
 
 ### Install  IDENTIFY LANGUAGE TETX NLP
 Download LanguageDetector
 >> python -m spacy download en_core_web_sm
+
+
+### run the tweet harvesting script by keyword
+example
+>> python app/scripts/get_tweets_search.py -k="Elon Musk"
